@@ -72,6 +72,7 @@
     margin: 40px 0px;
 }
 .btn{
+    text-decoration: none;
     padding: 10px 35px;
     background-color: transparent;
     border: 1px solid white;
